@@ -1,0 +1,47 @@
+{
+  "adviceSlips": [
+    {
+      "advice": "Always trust your instincts."
+    },
+    {
+      "advice": "Take risks, but be prepared for the consequences."
+    },
+    {
+      "advice": "Don't worry too much about what other people think of you."
+    },
+    {
+      "advice": "The best way to predict the future is to create it."
+    },
+    {
+      "advice": "Don't be afraid to ask for help when you need it."
+    },
+    {
+      "id": 1,
+      "advice": "A common regret in life is wishing one hadn't worked so hard."
+    },
+    {
+      "id": "af7e520c-e00f-49d5-8d8e-57cacbb5984e",
+      "advice": "Never waste an opportunity to tell someone you love them."
+    },
+    {
+      "id": "f7f29f27-1719-4ca9-8732-9c8cfe0ad51a",
+      "advice": "Never waste an opportunity to tell someone you love them."
+    },
+    {
+      "id": "6243fc2c-71fc-46f1-80d1-dd6df1fbb243",
+      "advice": "One of the top five regrets people have is that they didn't have the courage to be their true self."
+    },
+    {
+      "id": "b99134d6-9328-4270-bbde-4f368de939ab",
+      "advice": "If you don't want something to be public, don't post it on the Internet."
+    },
+    {
+      "id": "255756ae-5cca-4320-b750-67844246dd11",
+      "advice": "Value the people in your life."
+    },
+    {
+      "id": "37962c39-b585-474d-87b1-ebd0d9558ff1",
+      "advice": "Life is short enough, don't race to the finish."
+    }
+  ]
+}
