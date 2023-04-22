@@ -3,7 +3,7 @@ var string = require('lodash/string');
 
 
 
-export default function NamePage ({params}){
+export default function NamePage (){
     const router = useRouter()
     const {name} = router.query
     
